@@ -1,5 +1,4 @@
 # Projeto AspNet API para Controle e Cadastro de Usuários 
-Treino C# WebDeveloper 
 
 ## Tecnologias utilizadas:
 
